@@ -10,7 +10,7 @@ bot.on('ready', () => {
     console.log('Mina is online');
     bot.user.setActivity('!help to begin with this epic bot', {
         type: 'STREAMING',
-        url: 'https://www.twitch.tv/klendi'
+        url: 'no url'
     });
 });
 
